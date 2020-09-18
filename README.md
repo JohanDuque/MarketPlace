@@ -1,2 +1,2 @@
 # MarketPlace
-A pilot market place build with expo
+A pilot market place built using expo
